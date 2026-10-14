@@ -1,0 +1,49 @@
+{
+  "programme": "ai-eng-track",
+  "route": "pro",
+  "source_sha": "89f873b76b4b15752cf136d29324fa0040a88e41",
+  "template_version": "2026-10-14.89f873b",
+  "week_files": {
+    "1": [
+      "app/api/extract.py",
+      "app/llm/cost.py",
+      "app/llm/retry.py",
+      "app/llm/structured.py",
+      "app/tools/desk.py",
+      "weeks/1/routes/pro.md"
+    ],
+    "2": [
+      "app/retrieval/chunkers.py",
+      "app/retrieval/context.py",
+      "app/retrieval/hybrid.py",
+      "app/retrieval/metrics.py",
+      "app/retrieval/versions.py",
+      "app/tools/search.py",
+      "weeks/2/routes/pro.md"
+    ],
+    "3": [
+      "app/api/ask.py",
+      "app/eval/judge.py",
+      "app/llm/prompts/judge_v1.md",
+      "weeks/3/routes/pro.md"
+    ],
+    "4": [
+      "app/agents/agent.py",
+      "app/mcp_server.py",
+      "app/tools/actions.py",
+      "app/tools/analysis.py",
+      "weeks/4/routes/pro.md"
+    ],
+    "5": [
+      "app/agents/routing.py",
+      "app/guard.py",
+      "app/privacy.py",
+      "app/trace.py",
+      "weeks/5/routes/pro.md"
+    ],
+    "6": [
+      "scripts/smoke.py",
+      "weeks/6/routes/pro.md"
+    ]
+  }
+}
