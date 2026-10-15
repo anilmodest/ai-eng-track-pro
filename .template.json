@@ -1,8 +1,8 @@
 {
   "programme": "ai-eng-track",
   "route": "pro",
-  "source_sha": "485fb03bf2a220ad639d101487a88fc4f903e5c4",
-  "template_version": "2026-10-15.485fb03",
+  "source_sha": "dd6d7a8534ff0d026e1e4c2fc18d72e7ed15b220",
+  "template_version": "2026-10-15.dd6d7a8",
   "week_files": {
     "1": [
       "app/api/extract.py",
